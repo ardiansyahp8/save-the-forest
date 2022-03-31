@@ -1,13 +1,6 @@
-# Design 1 - Flutter UI Collection
+# Guidance on How to Run The Code
 
-![Capture](https://github.com/retroportalstudio/rps_ui_collection/blob/main/rps_ui_e1/episode_1_design.jpg)
-
-# Inspired From:
-
-https://www.instagram.com/p/CCa_uesgkK8/
-
-## Packages Used
-
-```sh
-intl: ^0.16.1
-```
+1. Install Flutter SDK and/or Xcode on your machine
+2. After doing it, clone this repo and run "git clone https://github.com/ardiansyahp8/save-the-forest"
+3. Move to your directory of repo clone in the CMD "cd ../../your-directory"
+4. Type on "flutter run". And check again if "flutter" is in your PATH or environment variable
